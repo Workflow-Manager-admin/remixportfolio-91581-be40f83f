@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/remixportfolio-91581-be40f83f/portfolio_frontend_workspace/portfolio_frontend"
+}
